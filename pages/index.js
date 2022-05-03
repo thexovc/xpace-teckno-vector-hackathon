@@ -23,7 +23,7 @@ const Home = () => {
             <span className="ml-3 text-lg md:text-xl md:mt-0 mt-6 mr-3 md:mr-0 font-bold">Xpace</span>
           </a>
           <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
-            <a href="https://docs.harmony.one/home/general/wallets/browser-extensions-wallets/metamask-wallet/adding-harmony" className="mr-5 p-1 bg-blue-400 text-gray-100 font-semibold 
+            <a href="https://koditips.com/how-to-install-setup-phantom-wallet/" className="mr-5 p-1 bg-blue-400 text-gray-100 font-semibold 
             rounded-lg border-blue-200 border-2 mt-4 md:mt-0 hover:text-black 
             hover:bg-white">How to Use </a>
 
